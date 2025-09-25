@@ -1,0 +1,10 @@
+*.log
+*.tmp
+*.exe
+*.dll
+*.o
+*.class
+node_modules/
+venv/
+.idea/
+.DS_Store
